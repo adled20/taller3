@@ -1,0 +1,173 @@
+.tra{
+  width: 80px;
+}
+body{
+   background: url(../recursos/fondo.webp);
+   background-size: cover;
+   font-family: "Tanseek Modern Pro Arabic Book";
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+        
+    width: 100%;
+    height: 100px;
+    background-color: #ffff;
+
+   
+}
+#h{
+    background-color: #9ed033;
+    color: #ffff;
+}
+.logo{
+    display: flex;
+    width: 400px;
+    height: 100px;
+    
+}
+
+img{
+    flex-grow: 1;
+    object-fit: cover;
+}
+
+.Container{
+   
+    display: flex;
+    width: 700px;
+    height: 100px;
+    background-color: #ffff;
+}
+
+.Inside-Container{
+    flex-grow: 1;
+    text-align: center;
+    font-size: 30px;
+    padding: 0.5em 0;
+    border-right: solid;
+    
+}
+
+.venecia{
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+    background-color: #ffff;
+}
+h4{
+    
+    font-size: 30px;
+}
+.travel{
+    font-size: 28px;
+}
+.precio{
+  
+    font-size: 50px;
+    display: inline-block;
+    background-color: #ff494f;
+}
+
+.booking{
+  
+    display: inline-block;
+    background-color: #9ed033;
+    font-size: 50px;
+}
+
+.paises-container{
+    margin-top: 9px;
+    display: flex;
+    width: 100%;
+    height: 400px;
+}
+.pais{
+    margin-right: 9px;
+    background-color: #ffff;
+    flex-grow: 1;
+}
+.titulo{
+    font-size: 40px;
+    text-align: center;
+    margin: 0%;
+    background-color: #9ed033;
+    color: #ffff;
+}
+.precio_hotel{
+    font-size: 30px;
+    text-align: center;
+    background-color: #9ed033;
+    margin: 0%;
+    color: #ffff;
+
+}
+.imagenes{
+    
+    display: flex;
+    width: 100%;
+    height: 267px;
+}
+.ciudades{
+font-size: 24px;
+color: #9ed033;
+}
+
+.hotel{
+font-size: 20px;
+color: #ff494f;
+}
+.logos{
+    margin-top: 35px;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    
+}
+.inside-logos{
+   
+    display: flex;
+    flex-grow: 1;
+    background-color: #eeeeee;
+}
+
+#ko{
+    border-right: solid;
+    
+    border-color: black;
+}
+.final{
+    display: flex;
+    width: 100%;
+    height: 300px;
+   
+}
+b{
+    color: #9ed033;
+}
+.text{
+    text-align: center;
+    display: flex;
+    flex-grow: 1;
+   
+    background-color: #ffff;
+}
+.finall{
+    display: flex;
+    flex-grow: 1;
+    background-color: #ffff;
+    margin-top: 9px;
+    
+}
+.Copyright{
+    display: inline-block;
+    font-size: 20px;
+}
+.contactt{
+    width: 20px;
+    height: 100px;
+    display: flex;
+    flex-grow: 1;
+}
